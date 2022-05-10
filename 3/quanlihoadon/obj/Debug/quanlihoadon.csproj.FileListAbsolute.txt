@@ -1,0 +1,59 @@
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.exe.config
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.exe
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.pdb
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmdangnhap.resources
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmhang.resources
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmhoadon.resources
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmnhacungcap.resources
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmquanlichung.resources
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmthongke.resources
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.Properties.Resources.resources
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.exe
+C:\Users\ADMIN\Documents\GitHub\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.pdb
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.exe.config
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.exe
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.pdb
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.exe
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.pdb
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmdangnhap.resources
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmhang.resources
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmhoadon.resources
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmnhacungcap.resources
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmquanlichung.resources
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmthongke.resources
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.Properties.Resources.resources
+C:\Users\Acer\Documents\TTNT45K_06\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.csproj.GenerateResource.Cache
+D:\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.exe.config
+D:\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.exe
+D:\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.pdb
+D:\năm 2\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.exe.config
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.exe
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.pdb
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.csprojResolveAssemblyReference.cache
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmdangnhap.resources
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmhang.resources
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmhoadon.resources
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmnhacungcap.resources
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmquanlichung.resources
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmthongke.resources
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.Properties.Resources.resources
+D:\năm 2\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.exe.config
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.exe
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.pdb
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.exe
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\bin\Debug\quanlihoadon.pdb
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmdangnhap.resources
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmhang.resources
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmhoadon.resources
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmnhacungcap.resources
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmquanlichung.resources
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.frmthongke.resources
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\QTCSDL\frmhoadon\quanlihoadon\obj\Debug\quanlihoadon.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\GitHub\QTCSDL\3\quanlihoadon\bin\Debug\quanlihoadon.exe.config
+C:\Users\HP\Documents\GitHub\QTCSDL\3\quanlihoadon\obj\Debug\quanlihoadon.exe
